@@ -1,0 +1,24 @@
+body{
+    margin: 0;
+    background-color: rgb(163, 163, 163);
+}
+
+h1{
+    color: rgb(255, 73, 73);
+    text-align: center;
+}
+
+h1:hover{
+    color: rgb(38, 0, 255);
+    font-size: 25pt;
+}    
+
+button{
+    background-color: rgb(105, 103, 103);
+    border-radius: 30%;
+}
+
+
+
+
+
